@@ -1,4 +1,4 @@
-This package open up provided data file, 
+Opens provided data file, 
 reads data from it and 
 return the number of overweight people it finds in data.
 
